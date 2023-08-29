@@ -24,7 +24,7 @@ examples:
 "2006-01-02T15:04:05Z07:00" //RFC3339
 
 `timestamp(tx.timestamp)`
-`timestamp('02-01-06 15:04', '24-06-22 07:49')`
+`timestamp(tx.timestamp, '02-01-06 15:04')` // eg 24-06-22 07:49
 
 ### Work with money or numeric
 
