@@ -1,7 +1,7 @@
 # Financial Data Platform
 Fin-DP provides a modern financial data platform for fintech and modern companies.
 
-
+![Context](FinDp.context.png)
 
 ## Key Features of the Financial Data Platform
 **Data Ingestion**: FDP’s collect data from diverse sources like banks, payment gateways, accounting software, and common financial files.
