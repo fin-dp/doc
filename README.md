@@ -37,7 +37,7 @@ FDPs are built to handle high transaction load and can help manage more robust d
 ### JS 
 
 ### Date and time, timestamp
-By default in the most cases, timestamp can be parsed automaticaly from the most used formats, including uniq timestamp in seconds or milliseconds, but optionally format (layout) can be specified.
+By default in the most cases, timestamp can be parsed automatically from the most used formats, including uniq timestamp in seconds or milliseconds, but optionally format (layout) can be specified.
 
 examples:
 "01/02 03:04:05PM '06 -0700" // The reference time, in numerical order.
